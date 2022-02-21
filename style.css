@@ -1,0 +1,10 @@
+.container {
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+h3 {
+    text-align: center;
+    text-decoration-line: underline;
+    padding: 20px;
+}
