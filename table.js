@@ -51,5 +51,9 @@ const person = new personData({
         ["Budi", 40, "buditr34@gmail.com", "082543468"]
     ]
 });
+
 const app = document.getElementById("tableData");
 person.render(app);
+
+export default personData;
+console.log(person);
